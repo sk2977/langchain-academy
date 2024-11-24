@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Spencer Work\Documents\GitHub\LangGraph\langchain-academy\lc-academy-env
+set VIRTUAL_ENV=C:\Users\Spencer Work\Documents\GitHub\langchain-academy\lc-academy-env
 
 if not defined PROMPT set PROMPT=$P$G
 

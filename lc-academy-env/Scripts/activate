@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Spencer Work\Documents\GitHub\LangGraph\langchain-academy\lc-academy-env"
+VIRTUAL_ENV="C:\Users\Spencer Work\Documents\GitHub\langchain-academy\lc-academy-env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
